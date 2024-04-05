@@ -1,6 +1,5 @@
 import React, { useState } from "react";
-import Adithya from "./images/Adithya SS.jpg"
-import qrimg from "./images/Qrcode.png"
+
 
 export const QrCode = () => {
     const [img, setImg] = useState();

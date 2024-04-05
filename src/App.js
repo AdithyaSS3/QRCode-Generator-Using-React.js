@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import { QrCode } from './components/QrCode';
 import "./components/QrCode.css"
